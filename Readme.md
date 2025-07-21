@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Benjamín
+# 👋 ¡Buenas! Soy Benjamín
 
 Soy estudiante de último año de Ingeniería en Informática, enfocado en áreas de gestión de proyectos, análisis de requerimientos y documentación de procesos TI. Me interesa conectar la parte técnica con la planificación y organización de equipos, aplicando metodologías ágiles y buenas prácticas de desarrollo.
 
